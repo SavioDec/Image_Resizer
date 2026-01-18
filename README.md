@@ -33,8 +33,8 @@ Upon execution, the tool automatically creates the following directory structure
 
 1.  **Clone the repository:**
     ```
-    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/YOUR-USERNAME/YOUR-REPO.git)
-    cd didaticos.redimensionador
+    git clone https://github.com/SavioDec/Image_Resizer.git
+    cd Image_Resizer
     ```
 
 2.  **Restore dependencies:**
