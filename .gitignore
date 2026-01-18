@@ -9,3 +9,11 @@ logs/
 
 # Ignorar arquivos temporários
 *.tmp
+
+```text
+bin/
+obj/
+.idea/
+.vscode/
+*.user
+*.pdb

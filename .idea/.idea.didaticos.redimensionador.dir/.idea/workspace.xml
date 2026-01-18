@@ -8,25 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa41928e-98ee-4bb6-b3e2-df40dd4bf09c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.didaticos.redimensionador.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.didaticos.redimensionador.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net10.0/didaticos.redimensionador.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net10.0/didaticos.redimensionador.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net10.0/didaticos.redimensionador.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net10.0/didaticos.redimensionador.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/ref/didaticos.redimensionador.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/ref/didaticos.redimensionador.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/refint/didaticos.redimensionador.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/refint/didaticos.redimensionador.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/didaticos.redimensionador.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/didaticos.redimensionador.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/didaticos.redimensionador.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/didaticos.redimensionador.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +49,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e7f701bc05fe4c4c938e43df30078ba3dba800/f4/27c71677/FileSystemEnumerable`1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5fa06e9dde3bcdc431ccef63b06896b3af3c88468d42567a20ca823059b966c4/AdvancedImageExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b388dc5e13cf52a5a5d487f287189b695e2281bccc26a57fdcc4cf333c7aa/Image.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Debug/net10.0/didaticos.redimensionador.sourcelink.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///usr/share/dotnet/sdk/10.0.100/Sdks/Microsoft.NET.Sdk/Sdk/Sdk.props" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///usr/share/dotnet/sdk/10.0.100/Sdks/Microsoft.NET.Sdk/Sdk/Sdk.targets" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -147,7 +131,7 @@
       <workItem from="1768662661991" duration="4607000" />
       <workItem from="1768667405262" duration="85000" />
       <workItem from="1768697613352" duration="1373000" />
-      <workItem from="1768701134951" duration="11746000" />
+      <workItem from="1768701134951" duration="12375000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of an Image Resizer tool">
       <option name="closed" value="true" />
@@ -197,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768710975770</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Build for Linux and Windows">
+      <option name="closed" value="true" />
+      <created>1768713166329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768713166329</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +204,8 @@
     <MESSAGE value="build" />
     <MESSAGE value="a" />
     <MESSAGE value=".gitignore creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Build for Linux and Windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build for Linux and Windows" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
