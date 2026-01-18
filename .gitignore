@@ -1,0 +1,11 @@
+# Ignorar todos os arquivos .jpg
+*.jpg
+
+# Ignorar arquivos .png também
+*.png
+
+# Ignorar a pasta de logs
+logs/
+
+# Ignorar arquivos temporários
+*.tmp
