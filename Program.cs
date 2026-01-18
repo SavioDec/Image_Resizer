@@ -33,6 +33,8 @@ internal class Program {
 
         #endregion
 
+        FileStream fileStream;
+        FileInfo fileInfo;
 
         bool imagesSequence = true;
         while (imagesSequence) {
@@ -58,9 +60,8 @@ internal class Program {
                 // ler o tamanho que ira redimensionar
 
                 foreach (var arquivo in arquivosEntrada) {
-                    FileStream fileStream =
-                        new FileStream(arquivo, FileMode.Open, FileAccess.ReadWrite, FileShare.ReadWrite);
-                    FileInfo fileInfo = new FileInfo(arquivo);
+                    fileStream = new FileStream(arquivo, FileMode.Open, FileAccess.ReadWrite, FileShare.ReadWrite);
+                    fileInfo = new FileInfo(arquivo);
 
                     string extensao = fileInfo.Extension;
                     string nomeSemExtensao = Path.GetFileNameWithoutExtension(arquivo);
