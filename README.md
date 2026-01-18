@@ -27,7 +27,7 @@ Upon execution, the tool automatically creates the following directory structure
 ├── Input_Files/         <-- Drop your original images here
 ├── Resized_Files/       <-- Resized images will appear here
 └── Finished_Files/      <-- Original images are moved here after processing
-```
+```  
 
 ## ⚙️ How to Run (Development)
 
