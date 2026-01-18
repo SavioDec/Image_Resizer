@@ -37,17 +37,19 @@ internal class Program {
         bool imagesSequence = true;
         while (imagesSequence) {
             try {
+                //Programa olha para a pasta de entrada
+                // Se tiver arquivo, ele ira redimensionar
+                var arquivosEntrada = Directory.EnumerateFiles(diretorioEntrada);
+                if (arquivosEntrada.Count() == 0) {
+                    Console.WriteLine("Put the files in the Input_Files directory");
+                }
+
                 Console.Write("Enter the desired new height: ");
                 var textoDigitado = Console.ReadLine();
 
                 //Trata Erros de input
                 if (!int.TryParse(textoDigitado, out int novaAltura)) throw new Exception($"The value '{textoDigitado}' needs to be an integer");
                 if (novaAltura <= 0) throw new Exception($"The value '{novaAltura}' cannot be negative");
-
-
-                //Programa olha para a pasta de entrada
-                // Se tiver arquivo, ele ira redimensionar
-                var arquivosEntrada = Directory.EnumerateFiles(diretorioEntrada);
 
                 if (arquivosEntrada.Count() == 0) {
                     imagesSequence = false;
@@ -103,7 +105,6 @@ internal class Program {
         double ratio = (double)altura / imagem.Height;
         int novaLargura = (int)(imagem.Width * ratio);
         int novaAltura = (int)(imagem.Height * ratio);
-
 
         imagem.Mutate(x => x.Resize(novaLargura, novaAltura));
 

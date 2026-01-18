@@ -1,0 +1,2 @@
+/home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/bin/Release/net10.0/linux-x64/publish/didaticos.redimensionador.pdb
+/home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/bin/Release/net10.0/linux-x64/publish/didaticos.redimensionador

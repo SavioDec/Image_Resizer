@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EwCZjS0Yngc=",
+  "dgSpecHash": "VHelDjAj69E=",
   "success": true,
   "projectFilePath": "/home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/didaticos.redimensionador.csproj",
   "expectedPackageFiles": [
+    "/home/savio/.nuget/packages/microsoft.net.illink.tasks/10.0.0/microsoft.net.illink.tasks.10.0.0.nupkg.sha512",
     "/home/savio/.nuget/packages/sixlabors.imagesharp/3.1.12/sixlabors.imagesharp.3.1.12.nupkg.sha512",
-    "/home/savio/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+    "/home/savio/.nuget/packages/microsoft.netcore.app.runtime.win-x64/10.0.0/microsoft.netcore.app.runtime.win-x64.10.0.0.nupkg.sha512",
+    "/home/savio/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512",
+    "/home/savio/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/10.0.0/microsoft.aspnetcore.app.runtime.win-x64.10.0.0.nupkg.sha512",
+    "/home/savio/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.0/microsoft.netcore.app.host.win-x64.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -15,3 +15,4 @@
 /home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/obj/Debug/net10.0/didaticos.redimensionador.csproj.AssemblyReference.cache
 /home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/obj/Debug/net10.0/didatico.7C920078.Up2Date
 /home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/bin/Debug/net10.0/SixLabors.ImageSharp.dll
+/home/savio/Documentos/Programacao/DotNET Course/Teoricas/didaticos.redimensionador/obj/Debug/net10.0/didaticos.redimensionador.sourcelink.json
